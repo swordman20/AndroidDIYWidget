@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01Android中属性动画/01Android中属性动画.iml" filepath="$PROJECT_DIR$/01Android中属性动画/01Android中属性动画.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02ViewPagerTest/02ViewPagerTest.iml" filepath="$PROJECT_DIR$/02ViewPagerTest/02ViewPagerTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03自定义下拉框/03自定义下拉框.iml" filepath="$PROJECT_DIR$/03自定义下拉框/03自定义下拉框.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidDIYWidget.iml" filepath="$PROJECT_DIR$/AndroidDIYWidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
